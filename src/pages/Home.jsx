@@ -16,7 +16,7 @@ function Home() {
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             I'm a Full Stack Daveloper
           </h2>
-          <p className="text-gray-500 py-4 max-w-md">
+          <p className="text-gray-400 py-4 max-w-md text-xl">
             A full stack web developer is a person who can develop both client
             and server software. In addition to mastering HTML and CSS, he she
             also knows how to Program a browser Program a server
