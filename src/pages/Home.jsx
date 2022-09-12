@@ -38,7 +38,7 @@ function Home() {
           <img
             src={Img}
             alt=""
-            className="rounded-2xl mx-auto w-2/3 md:w-full"
+            className="rounded-2xl ml-4 mx-auto w-2/3 md:w-full"
           />
         </div>
       </div>
