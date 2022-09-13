@@ -1,37 +1,37 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-import installNode from "../assets/portfolio/installNode.jpg";
-import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
+import newsApp from "../assets/portfolio/newsApp.jpg";
+import notebook from "../assets/portfolio/notebook.jpg";
+import NoteAppAPK from "../assets/portfolio/NoteAppAPK.jpg";
+import reduxSaga from "../assets/portfolio/redux-saga.jpg";
+import reactEmat from "../assets/portfolio/reactEmat.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
-      href: "https://github.com/SUMANTA5/weather_app",
+      src: newsApp,
+      href: "https://github.com/SUMANTA5/news-app",
     },
     {
       id: 2,
-      src: installNode,
-      href: "https://github.com/SUMANTA5/weather_app",
+      src: notebook,
+      href: "https://github.com/SUMANTA5/notebook",
     },
     {
       id: 3,
-      src: navbar,
-      href: "https://github.com/SUMANTA5/weather_app",
+      src: NoteAppAPK,
+      href: "https://github.com/SUMANTA5/NoteAppAPK",
     },
     {
       id: 4,
-      src: reactParallax,
-      href: "https://github.com/SUMANTA5/weather_app",
+      src: reduxSaga,
+      href: "https://github.com/SUMANTA5/redux-saga",
     },
     {
       id: 5,
-      src: reactSmooth,
-      href: "https://github.com/SUMANTA5/weather_app",
+      src: reactEmat,
+      href: "https://github.com/SUMANTA5/emart",
     },
     {
       id: 6,
@@ -61,15 +61,15 @@ const Portfolio = () => {
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-                {/* <button className=" w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+                <a className=" w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Demo
-                </button> */}
-                <button
-                  onClick={() => href}
+                </a>
+                <a
+                  href={href}
                   className="px-6 py-3 w-1/2 m-4 duration-200 hover:scale-105"
                 >
                   Code
-                </button>
+                </a>
               </div>
             </div>
           ))}
