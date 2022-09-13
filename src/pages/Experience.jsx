@@ -5,7 +5,7 @@ import reactImage from "../assets/react.png";
 // import nextjs from "../assets/nextjs.png";
 import tailwind from "../assets/tailwind.png";
 import express from "../assets/express.jpg";
-import mongo from "../assets/mongodb.svg"
+import mongo from "../assets/mongodb.svg";
 
 const Experience = () => {
   const techs = [

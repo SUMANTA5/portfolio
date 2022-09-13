@@ -10,14 +10,14 @@ import Portfolio from "./pages/Portfolio";
 function App() {
   return (
     <div>
-      <NavBar/>
-      <Home/>
-      <About/>
-      <Portfolio/>
-      <Experience/>
-      <Contact/>
+      <NavBar />
+      <Home />
+      <About />
+      <Portfolio />
+      <Experience />
+      <Contact />
 
-      <SocialLink/>
+      <SocialLink />
     </div>
   );
 }
