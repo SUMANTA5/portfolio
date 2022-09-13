@@ -14,12 +14,10 @@ function Home() {
           <h2 className="text-3xl sm:text-7xl font-bold text-white">
             I'm a Full Stack Developer
           </h2>
-          <p className="text-gray-400 py-4 max-w-md">
+          <p className="text-gray-300 py-4 max-w-md">
             A full stack web developer is a person who can develop both
             client-side and server-side of a website, who can also build
-            websites suitable to run in both desktop and mobile. In addition to
-            mastering various type of programming technologies used to make a
-            fully functional website.
+            websites suitable to run in both desktop and mobile.
           </p>
           <div>
             <Link

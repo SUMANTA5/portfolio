@@ -27,10 +27,10 @@ const About = () => {
         </p>
         <br />
         <p className="text-xl ">
-          If you like my style of work and would like to work with me or want me
-          to join the team of developers or want to give some suggestions
-          relating my previous projects, do connect with me through the contact
-          section below. Thank you for visiting this website/portfolio.
+          If you want me to join the team of developers or want to give some
+          suggestions relating my previous projects, do connect with me through
+          the contact section below. Thank you for visiting this
+          website/portfolio.
         </p>
       </div>
     </div>
