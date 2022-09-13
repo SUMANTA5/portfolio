@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ee43e59f.css",
+    "main.js": "/portfolio/static/js/main.d5896f2e.js",
+    "static/js/787.319caf1b.chunk.js": "/portfolio/static/js/787.319caf1b.chunk.js",
+    "static/media/notebook.jpg": "/portfolio/static/media/notebook.d41832c5e0d282ffa406.jpg",
+    "static/media/newsApp.jpg": "/portfolio/static/media/newsApp.42790e05202156c7c3ae.jpg",
+    "static/media/reactEmat.jpg": "/portfolio/static/media/reactEmat.152bd80155f5dfd624ec.jpg",
+    "static/media/redux-saga.jpg": "/portfolio/static/media/redux-saga.b0eb74b6179938f85434.jpg",
+    "static/media/NoteAppAPK.jpg": "/portfolio/static/media/NoteAppAPK.951365643a1d92cc6820.jpg",
+    "static/media/reactWeather.jpg": "/portfolio/static/media/reactWeather.387129978e02225ce577.jpg",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/heroImage.png": "/portfolio/static/media/heroImage.314a5893f95dd9926355.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/mongodb.svg": "/portfolio/static/media/mongodb.1aca075d5cce0819fea7ea0902d94ce4.svg",
+    "index.html": "/portfolio/index.html",
+    "main.ee43e59f.css.map": "/portfolio/static/css/main.ee43e59f.css.map",
+    "main.d5896f2e.js.map": "/portfolio/static/js/main.d5896f2e.js.map",
+    "787.319caf1b.chunk.js.map": "/portfolio/static/js/787.319caf1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee43e59f.css",
+    "static/js/main.d5896f2e.js"
+  ]
+}
