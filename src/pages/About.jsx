@@ -17,19 +17,20 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum fuga a
-          consequuntur. Quos ex inventore nemo temporibus nesciunt labore
-          dignissimos consequatur ipsum atque voluptate laboriosam, consectetur
-          reprehenderit libero! Eos numquam deserunt corporis tempore enim
-          ducimus debitis reiciendis harum, commodi officiis mollitia unde id
-          dolore nostrum eius, necessitatibus impedit iusto odio.
+          Hello viewer, my name is Sumanta Kumar das, as the heading shows, I do
+          am a fellow Full Stack Developer currently working on one of my
+          project, please do check out some of my previous completed projects to
+          review my performance on all of these work. Currently I know some of
+          the following technologies relating creation of a functional website -
+          Javascript, HTML, CSS, React, Redux, DOM, Bootstrap, JSX, TailwindCSS,
+          Express, MongoDB.
         </p>
         <br />
         <p className="text-xl ">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-          Exercitationem ratione veniam debitis autem repellat vel, aliquam
-          eveniet tempore iusto cumque obcaecati distinctio velit provident ab
-          excepturi
+          If you like my style of work and would like to work with me or want me
+          to join the team of developers or want to give some suggestions
+          relating my previous projects, do connect with me through the contact
+          section below. Thank you for visiting this website/portfolio.
         </p>
       </div>
     </div>

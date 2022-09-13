@@ -1,7 +1,7 @@
 import React from "react";
 import Img from "../assets/heroImage.png";
 import { MdKeyboardArrowRight } from "react-icons/md";
-import {Link} from 'react-scroll'
+import { Link } from "react-scroll";
 
 function Home() {
   return (
@@ -9,20 +9,23 @@ function Home() {
       name="home"
       className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800"
     >
-      <div
-        className="max-w-screen-lg mx-auto flex flex-col md:flex-row items-center justify-center h-full px-4"
-      >
+      <div className="max-w-screen-lg mx-auto flex flex-col md:flex-row items-center justify-center h-full px-4">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-3xl sm:text-7xl font-bold text-white">
-            I'm a Full Stack Daveloper
+            I'm a Full Stack Developer
           </h2>
           <p className="text-gray-400 py-4 max-w-md">
-            A full stack web developer is a person who can develop both client
-            and server software. In addition to mastering HTML and CSS, he she
-            also knows how to Program a browser Program a server
+            A full stack web developer is a person who can develop both
+            client-side and server-side of a website, who can also build
+            websites suitable to run in both desktop and mobile. In addition to
+            mastering various type of programming technologies used to make a
+            fully functional website.
           </p>
           <div>
-            <Link to="portfolio" smooth duration={500}
+            <Link
+              to="portfolio"
+              smooth
+              duration={500}
               className="group text-white w-fit px-6 py-3 my-2 flex items-center
              rounded-md bg-gradient-to-r  from-cyan-500 to-blue-500 
              cursor-pointer"
