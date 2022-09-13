@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-full bg-gradient-to-b from-gray-800
+      className="w-full h-screen bg-gradient-to-b from-gray-800
      to-black text-white"
     >
       <div
@@ -16,7 +16,7 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-20 ">
+        <p className="text-xl mt-20">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum fuga a
           consequuntur. Quos ex inventore nemo temporibus nesciunt labore
           dignissimos consequatur ipsum atque voluptate laboriosam, consectetur
@@ -29,9 +29,7 @@ const About = () => {
           Lorem ipsum dolor sit amet consectetur, adipisicing elit.
           Exercitationem ratione veniam debitis autem repellat vel, aliquam
           eveniet tempore iusto cumque obcaecati distinctio velit provident ab
-          excepturi, tenetur voluptatibus aut! Quasi quia quis assumenda modi,
-          facere aliquam nostrum doloremque inventore quos eum ipsam non
-          explicabo fuga iusto perferendis impedit consequatur temporibus?
+          excepturi
         </p>
       </div>
     </div>

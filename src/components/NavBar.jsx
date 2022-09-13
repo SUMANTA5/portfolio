@@ -33,7 +33,7 @@ function NavBar() {
     w-full h-20 text-white bg-black px-4 fixed"
     >
       <div>
-        <h1 className="text-4xl font-signature ml-2 cursor-pointer">Sumanta</h1>
+        <h1 className="text-4xl font-signature cursor-pointer">Sumanta</h1>
       </div>
 
       <ul className="hidden md:flex">

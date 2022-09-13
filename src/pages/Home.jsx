@@ -9,14 +9,13 @@ function Home() {
       className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800"
     >
       <div
-        className="max-w-screen-lg  mx-auto flex flex-col
-       items-center justify-center h-full px-4 md:flex-row"
+        className="max-w-screen-lg mx-auto flex flex-col md:flex-row items-center justify-center h-full px-4"
       >
         <div className="flex flex-col justify-center h-full">
-          <h2 className="text-4xl sm:text-7xl font-bold text-white">
+          <h2 className="text-3xl sm:text-7xl font-bold text-white">
             I'm a Full Stack Daveloper
           </h2>
-          <p className="text-gray-400 py-4 max-w-md text-xl">
+          <p className="text-gray-400 py-4 max-w-md">
             A full stack web developer is a person who can develop both client
             and server software. In addition to mastering HTML and CSS, he she
             also knows how to Program a browser Program a server
@@ -38,7 +37,7 @@ function Home() {
           <img
             src={Img}
             alt=""
-            className="rounded-2xl ml-4 mx-auto w-2/3 md:w-full"
+            className="rounded-2xl mx-auto w-2/3 md:w-full"
           />
         </div>
       </div>
