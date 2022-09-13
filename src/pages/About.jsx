@@ -17,7 +17,7 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Hello viewer, my name is Sumanta Kumar das, as the heading shows, I do
+          Hello viewer, my name is Sumanta Kumar Das, as the heading shows, I do
           am a fellow Full Stack Developer currently working on one of my
           project, please do check out some of my previous completed projects to
           review my performance on all of these work. Currently I know some of
@@ -27,10 +27,8 @@ const About = () => {
         </p>
         <br />
         <p className="text-xl ">
-          If you want me to join the team of developers or want to give some
-          suggestions relating my previous projects, do connect with me through
-          the contact section below. Thank you for visiting this
-          website/portfolio.
+          Do connect with me through the contact section below. Thank you for
+          visiting this website/portfolio.
         </p>
       </div>
     </div>
