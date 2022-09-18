@@ -1,6 +1,7 @@
 import React from "react";
 import { FaLinkedinIn, FaGithub } from "react-icons/fa";
-//import { HiOutlineMail } from "react-icons/hi";
+import { HiOutlineMail } from "react-icons/hi";
+import { BsFillPersonLinesFill } from "react-icons/bs";
 import { Link } from "react-scroll";
 
 const Footer = () => {
@@ -23,15 +24,25 @@ const Footer = () => {
       ),
       href: "https://github.com/SUMANTA5",
     },
-    // {
-    //   id: 3,
-    //   child: (
-    //     <>
-    //       <HiOutlineMail />
-    //     </>
-    //   ),
-    //   href: "https://mail.google.com/",
-    // },
+    {
+      id: 3,
+      child: (
+        <>
+          <HiOutlineMail size={17} />
+        </>
+      ),
+      href: "https://mail.google.com/",
+    },
+    {
+        id: 4,
+        child: (
+          <>
+           <BsFillPersonLinesFill size={17} />
+          </>
+        ),
+        href: "https://drive.google.com/file/d/1LjO60hJc8WLRLLeRdBZuUOJEwksyCo__/view?usp=sharing",
+        download: true,
+      },
   ];
 
   return (
@@ -50,10 +61,11 @@ const Footer = () => {
             2022
           </p>
           <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-            {footerIcon.map(({ id, child, href }) => (
+            {footerIcon.map(({ id, child, href, download }) => (
               <a
                 key={id}
                 href={href}
+                download={download}
                 rel="noreferrer" 
                 target="_blank"
                 class="m-2 cursor-pointer text-gray-500 font  hover:text-white"
