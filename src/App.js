@@ -1,4 +1,5 @@
 import "./App.css";
+import Footer from "./components/Footer";
 import NavBar from "./components/NavBar";
 import SocialLink from "./components/SocialLink";
 import About from "./pages/About";
@@ -16,6 +17,7 @@ function App() {
       <Portfolio />
       <Experience />
       <Contact />
+      <Footer/>
 
       <SocialLink />
     </div>
