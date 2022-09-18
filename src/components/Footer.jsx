@@ -34,15 +34,15 @@ const Footer = () => {
       href: "https://mail.google.com/",
     },
     {
-        id: 4,
-        child: (
-          <>
-           <BsFillPersonLinesFill size={17} />
-          </>
-        ),
-        href: "https://drive.google.com/file/d/1LjO60hJc8WLRLLeRdBZuUOJEwksyCo__/view?usp=sharing",
-        download: true,
-      },
+      id: 4,
+      child: (
+        <>
+          <BsFillPersonLinesFill size={17} />
+        </>
+      ),
+      href: "https://drive.google.com/file/d/1LjO60hJc8WLRLLeRdBZuUOJEwksyCo__/view?usp=sharing",
+      download: true,
+    },
   ];
 
   return (
@@ -66,7 +66,7 @@ const Footer = () => {
                 key={id}
                 href={href}
                 download={download}
-                rel="noreferrer" 
+                rel="noreferrer"
                 target="_blank"
                 class="m-2 cursor-pointer text-gray-500 font  hover:text-white"
               >
