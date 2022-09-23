@@ -58,7 +58,7 @@ const Footer = () => {
             <span class="ml-3 text-xl font-signature text-white ">Sumanta</span>
           </Link>
           <p class="text-sm text-white sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
-            2022
+          © 2020 Sumanta
           </p>
           <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
             {footerIcon.map(({ id, child, href, download }) => (
