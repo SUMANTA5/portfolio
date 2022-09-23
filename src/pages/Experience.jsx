@@ -2,9 +2,9 @@ import html from "../assets/html.png";
 // import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-// import nextjs from "../assets/nextjs.png";
+import nextjs from "../assets/nextjs.png";
 import tailwind from "../assets/tailwind.png";
-import express from "../assets/express.jpg";
+//import express from "../assets/express.jpg";
 import mongo from "../assets/mongodb.svg";
 
 const Experience = () => {
@@ -17,8 +17,8 @@ const Experience = () => {
     },
     {
       id: 2,
-      src: express,
-      title: "Express",
+      src: nextjs,
+      title: "Next",
       style: "shadow-white",
     },
     {
