@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4074723f.css",
-    "main.js": "/portfolio/static/js/main.b175e8da.js",
+    "main.js": "/portfolio/static/js/main.c40673b2.js",
     "static/js/787.319caf1b.chunk.js": "/portfolio/static/js/787.319caf1b.chunk.js",
     "static/media/notebook.jpg": "/portfolio/static/media/notebook.d41832c5e0d282ffa406.jpg",
     "static/media/newsApp.jpg": "/portfolio/static/media/newsApp.42790e05202156c7c3ae.jpg",
@@ -10,6 +10,7 @@
     "static/media/NoteAppAPK.jpg": "/portfolio/static/media/NoteAppAPK.951365643a1d92cc6820.jpg",
     "static/media/reactWeather.jpg": "/portfolio/static/media/reactWeather.387129978e02225ce577.jpg",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/nextjs.png": "/portfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
     "static/media/heroImage.png": "/portfolio/static/media/heroImage.314a5893f95dd9926355.png",
     "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
@@ -17,11 +18,11 @@
     "static/media/mongodb.svg": "/portfolio/static/media/mongodb.1aca075d5cce0819fea7ea0902d94ce4.svg",
     "index.html": "/portfolio/index.html",
     "main.4074723f.css.map": "/portfolio/static/css/main.4074723f.css.map",
-    "main.b175e8da.js.map": "/portfolio/static/js/main.b175e8da.js.map",
+    "main.c40673b2.js.map": "/portfolio/static/js/main.c40673b2.js.map",
     "787.319caf1b.chunk.js.map": "/portfolio/static/js/787.319caf1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4074723f.css",
-    "static/js/main.b175e8da.js"
+    "static/js/main.c40673b2.js"
   ]
 }
