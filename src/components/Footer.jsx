@@ -40,7 +40,7 @@ const Footer = () => {
           <BsFillPersonLinesFill size={17} />
         </>
       ),
-      href: "https://drive.google.com/file/d/1LjO60hJc8WLRLLeRdBZuUOJEwksyCo__/view?usp=sharing",
+      href: "https://drive.google.com/file/d/1vThG9tXuQ4Rj3zVGLSYXiiMo2iywGGeq/view?usp=sharing",
       download: true,
     },
   ];
