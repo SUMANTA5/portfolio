@@ -31,7 +31,7 @@ function NavBar() {
   return (
     <div
       className="flex justify-between items-center
-    w-full h-20 text-white bg-black px-4 fixed"
+    w-full h-20 text-white bg-black px-4 fixed z-50"
     >
       <div>
         <Link
